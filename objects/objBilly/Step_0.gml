@@ -1,0 +1,43 @@
+if (keyboard_check_pressed(vk_enter)) {
+	var player_input = keyboard_string;
+	keyboard_string = "";
+	
+	if (player_input == "punch" && facing == 1) {
+	sprite_index = Billy_Punch_RIGHT;
+	image_index = 0;
+	}
+
+if (player_input == "punch" && facing == -1) {
+	sprite_index = Billy_Punch_RIGHT;
+	image_index = 0;
+	image_xscale = -1;
+	
+	
+	} 
+	
+if (player_input == "gloves"){
+	sprite_index = Billy_Walk_Glove;
+	gloves = true;
+	
+	}
+	
+if (player_input == "punch" && facing == 1 && gloves == true) {
+	sprite_index = Billy_Punch_RIGHT_Glove;
+	image_index = 0;
+	}
+	
+	if (player_input == "punch" && facing == -1 && gloves == true) {
+	sprite_index = Billy_Punch_RIGHT_Glove;
+	image_index = 0;
+	image_xscale = -1;
+	
+	
+	} 
+	if (player_input == "kick" && facing == 1 && global.random_index == 0) {
+	sprite_index = Billy_Kick;
+	image_index += 0
+	image_speed = 0.6;
+	global.lugarHP -= 25
+	}
+	
+}
