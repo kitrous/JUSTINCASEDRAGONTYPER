@@ -1,7 +1,7 @@
 idle = true;
 
 global.lugarHP = 100;
-
+global.lugarHPmax = global.lugarHP;
 image_speed = 0;
 
 path_start(Path1,3,path_action_reverse,3);
