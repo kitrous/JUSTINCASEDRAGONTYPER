@@ -38,6 +38,7 @@
     {"name":"spr_textbox","order":17,"path":"sprites/spr_textbox/spr_textbox.yy",},
     {"name":"Sprite7","order":25,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Sprite8","order":26,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"sSpotted","order":12,"path":"sprites/sSpotted/sSpotted.yy",},
     {"name":"TileSet1","order":32,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"TileSet2","order":33,"path":"tilesets/TileSet2/TileSet2.yy",},
   ],

@@ -33,11 +33,17 @@ if (player_input == "punch" && facing == 1 && gloves == true) {
 	
 	
 	} 
-	if (player_input == "kick" && facing == 1 && global.random_index == 0) {
+	if (player_input == "kick" && facing == 1  && global.random_index == 0 || facing == -1) {
 	sprite_index = Billy_Kick;
 	image_index += 0
 	image_speed = 0.6;
 	global.lugarHP -= 25
 	}
-	
+	if (player_input == "punk" && facing == 1  && global.random_index == 2 || facing == -1) {
+	sprite_index = Billy_Punch_RIGHT;
+	image_index += 0
+	image_speed = 0.6;
+	global.lugarHP -= 25
+	global.lugarHit = true;
+	}
 }
