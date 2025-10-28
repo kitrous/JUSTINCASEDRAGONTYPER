@@ -1,4 +1,5 @@
 draw_self();
+scribble(global.random_dialogue);
 //text
 draw_set_colour(c_white)
 
@@ -8,7 +9,7 @@ draw_set_valign(fa_middle);
 
 draw_set_halign(fa_center)
 
-draw_text(x-15,y-300,global.random_dialogue);
+draw_text_scribble(x-15,y-300,global.random_dialogue);
 
 //healthbar, some issues with this -- when I use variables for the x and y of the sprites, it does not work as intended
 draw_sprite(sHealthbar_bg,0,objLugar.x-160,objLugar.y-400);

@@ -20,7 +20,7 @@ global.dialogue = [
 	"What's something that goes on your hands and make punches weaker",//1
 	"Am I annoying you, punk?"//2
 ];
-
+global.dialogue[2] = draw_text_scribble(x-15,y-300,"Am I annoying you, [c_red] punk?");
 
 
 
