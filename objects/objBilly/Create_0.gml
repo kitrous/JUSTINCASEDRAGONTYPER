@@ -10,5 +10,7 @@ sprite_scale = image_xscale;
 
 gloves = false;
 
+global.billyHP = 100;
+global.maxBillyHP = global.billyHP;
 objBilly.x = x;
 objBilly.y = y;

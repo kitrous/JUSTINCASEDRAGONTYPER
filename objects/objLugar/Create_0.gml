@@ -1,5 +1,7 @@
 idle = true;
 
+
+
 global.lugarHP = 100
 global.lugarHPmax = global.lugarHP;
 
@@ -17,10 +19,11 @@ randomize();
 
 global.dialogue = [
 	"What do you do to a soccer ball?",//0
-	"What's something that goes on your hands and make punches weaker",//1
-	"Am I annoying you, punk?"//2
+	"What's something that goes on your[c_blue][wave] hands[c_white][/wave] and make[c_blue][wave] punches weaker",//1
+	"Am I annoying you,[c_red][jitter] punk",//2
+	"Bet you dont know any [c_red][jitter]mathematical[c_white][/jitter] equations, heh idiot"//3
 ];
-global.dialogue[2] = draw_text_scribble(x-15,y-300,"Am I annoying you, [c_red] punk?");
+
 
 
 

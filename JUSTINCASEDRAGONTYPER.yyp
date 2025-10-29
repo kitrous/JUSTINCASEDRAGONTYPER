@@ -47,7 +47,6 @@
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"scribble_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"scribble_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"scribble_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"scribble_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -58,6 +57,7 @@
   "resources":[
     {"id":{"name":"Bahnschrift","path":"fonts/Bahnschrift/Bahnschrift.yy",},},
     {"id":{"name":"JetBrains","path":"fonts/JetBrains/JetBrains.yy",},},
+    {"id":{"name":"Lato","path":"fonts/Lato/Lato.yy",},},
     {"id":{"name":"scribble_fallback_font","path":"fonts/scribble_fallback_font/scribble_fallback_font.yy",},},
     {"id":{"name":"objBilly","path":"objects/objBilly/objBilly.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
@@ -218,6 +218,7 @@
     {"id":{"name":"sSpotted","path":"sprites/sSpotted/sSpotted.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
+    {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

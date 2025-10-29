@@ -36,6 +36,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Bahnschrift","order":16,"path":"fonts/Bahnschrift/Bahnschrift.yy",},
+    {"name":"Lato","order":1,"path":"fonts/Lato/Lato.yy",},
     {"name":"scribble_fallback_font","order":24,"path":"fonts/scribble_fallback_font/scribble_fallback_font.yy",},
     {"name":"objBilly","order":1,"path":"objects/objBilly/objBilly.yy",},
     {"name":"Object2","order":18,"path":"objects/Object2/Object2.yy",},

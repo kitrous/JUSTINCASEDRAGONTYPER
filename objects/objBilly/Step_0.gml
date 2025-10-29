@@ -38,6 +38,7 @@ if (player_input == "punch" && facing == 1 && gloves == true) {
 	image_index += 0
 	image_speed = 0.6;
 	global.lugarHP -= 25
+	global.lugarHit = true;
 	}
 	if (player_input == "punk" && facing == 1  && global.random_index == 2 || facing == -1) {
 	sprite_index = Billy_Punch_RIGHT;
@@ -45,5 +46,13 @@ if (player_input == "punch" && facing == 1 && gloves == true) {
 	image_speed = 0.6;
 	global.lugarHP -= 25
 	global.lugarHit = true;
+	}
+	if (player_input == "mathematical" && facing == 1 && global.random_index == 3 || facing == -1) {
+	sprite_index = Billy_Kick;
+	image_index += 0
+	image_speed = 0.6;
+	global.lugarHP -= 25
+	global.lugarHit = true;
+	
 	}
 }

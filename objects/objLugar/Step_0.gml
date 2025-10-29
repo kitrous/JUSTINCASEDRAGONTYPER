@@ -12,7 +12,7 @@ var sCollision = collision_rectangle(x + -200, y + -200, x + 200, y + 200, objBi
 	if(sCollision){
 	idle = false;
 	direction = point_direction(x, y, objBilly.x+200, objBilly.y+200);
-	speed = 2;
+	speed = .5;
 	path_end();
 } else {
 	idle = true;
