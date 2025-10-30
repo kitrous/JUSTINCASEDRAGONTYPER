@@ -42,6 +42,7 @@
     {"name":"Object2","order":18,"path":"objects/Object2/Object2.yy",},
     {"name":"objLugar","order":2,"path":"objects/objLugar/objLugar.yy",},
     {"name":"ObjText","order":29,"path":"objects/ObjText/ObjText.yy",},
+    {"name":"Shake","order":3,"path":"objects/Shake/Shake.yy",},
     {"name":"__scribble_class_event","order":1,"path":"scripts/__scribble_class_event/__scribble_class_event.yy",},
     {"name":"__scribble_class_font","order":2,"path":"scripts/__scribble_class_font/__scribble_class_font.yy",},
     {"name":"__scribble_class_line","order":3,"path":"scripts/__scribble_class_line/__scribble_class_line.yy",},

@@ -64,6 +64,7 @@
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"objLugar","path":"objects/objLugar/objLugar.yy",},},
     {"id":{"name":"ObjText","path":"objects/ObjText/ObjText.yy",},},
+    {"id":{"name":"Shake","path":"objects/Shake/Shake.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"__scribble_class_element","path":"scripts/__scribble_class_element/__scribble_class_element.yy",},},
