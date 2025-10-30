@@ -25,7 +25,7 @@ global.random_dialogue = global.dialogue[global.random_index];
 sprite_index = Lugar_Hit;
 image_index = 0;
 global.lugarHit = false;
-instance_activate_layer(Effect_1);
+
 
 }
 

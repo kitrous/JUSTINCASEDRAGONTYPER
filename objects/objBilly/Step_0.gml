@@ -56,5 +56,10 @@ if (player_input == "punch" && facing == 1 && gloves == true) {
 	global.lugarHP -= 25
 	global.lugarHit = true;
 	
+	} else {
+	global.billyHP -= 25
+	sprite_index = Billy_Hurt;
+	billyHurt = true;
+	
 	}
 }

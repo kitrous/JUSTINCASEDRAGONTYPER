@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"JUSTINCASEDRAGONTYPER",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -51,7 +51,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.0.207",
   },
   "name":"JUSTINCASEDRAGONTYPER",
   "resources":[
@@ -199,6 +199,8 @@
     {"id":{"name":"__shd_scribble_bake_outline_8dir","path":"shaders/__shd_scribble_bake_outline_8dir/__shd_scribble_bake_outline_8dir.yy",},},
     {"id":{"name":"__shd_scribble_bake_shadow","path":"shaders/__shd_scribble_bake_shadow/__shd_scribble_bake_shadow.yy",},},
     {"id":{"name":"__shd_scribble","path":"shaders/__shd_scribble/__shd_scribble.yy",},},
+    {"id":{"name":"Billy_Hurt_Head","path":"sprites/Billy_Hurt_Head/Billy_Hurt_Head.yy",},},
+    {"id":{"name":"Billy_Hurt","path":"sprites/Billy_Hurt/Billy_Hurt.yy",},},
     {"id":{"name":"Billy_Kick","path":"sprites/Billy_Kick/Billy_Kick.yy",},},
     {"id":{"name":"Billy_Left","path":"sprites/Billy_Left/Billy_Left.yy",},},
     {"id":{"name":"Billy_Punch_LEFT","path":"sprites/Billy_Punch_LEFT/Billy_Punch_LEFT.yy",},},
@@ -210,7 +212,7 @@
     {"id":{"name":"Lugar_Hit","path":"sprites/Lugar_Hit/Lugar_Hit.yy",},},
     {"id":{"name":"Lugar","path":"sprites/Lugar/Lugar.yy",},},
     {"id":{"name":"Map","path":"sprites/Map/Map.yy",},},
-    {"id":{"name":"Mission_1_Tiles","path":"sprites/Mission_1_Tiles/Mission_1_Tiles.yy",},},
+    {"id":{"name":"sBilly_Head","path":"sprites/sBilly_Head/sBilly_Head.yy",},},
     {"id":{"name":"scribble_fallback_bulletpoint","path":"sprites/scribble_fallback_bulletpoint/scribble_fallback_bulletpoint.yy",},},
     {"id":{"name":"sHealthbar_bg","path":"sprites/sHealthbar_bg/sHealthbar_bg.yy",},},
     {"id":{"name":"sHealthbar_Border","path":"sprites/sHealthbar_Border/sHealthbar_Border.yy",},},

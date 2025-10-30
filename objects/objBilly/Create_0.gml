@@ -10,7 +10,13 @@ sprite_scale = image_xscale;
 
 gloves = false;
 
+billyHurt = false;
+
+healthbar_width = 360;
+healthbar_height = 25;
+
 global.billyHP = 100;
 global.maxBillyHP = global.billyHP;
+
 objBilly.x = x;
 objBilly.y = y;
