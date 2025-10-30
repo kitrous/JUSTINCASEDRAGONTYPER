@@ -6,7 +6,3 @@ draw_sprite(sHealthbar_Border,0,100,100);
 
 draw_sprite(sBilly_Head,0,50,0);
 
-if (billyHurt){
-sBilly_Head = image_index = 1;
-
-}
