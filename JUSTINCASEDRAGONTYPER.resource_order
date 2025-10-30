@@ -166,7 +166,9 @@
     {"name":"Billy_Right","order":4,"path":"sprites/Billy_Right/Billy_Right.yy",},
     {"name":"Billy_Walk_Glove","order":6,"path":"sprites/Billy_Walk_Glove/Billy_Walk_Glove.yy",},
     {"name":"Billy_Walk","order":5,"path":"sprites/Billy_Walk/Billy_Walk.yy",},
+    {"name":"Lugar_Hit","order":15,"path":"sprites/Lugar_Hit/Lugar_Hit.yy",},
     {"name":"Lugar","order":7,"path":"sprites/Lugar/Lugar.yy",},
+    {"name":"Map","order":13,"path":"sprites/Map/Map.yy",},
     {"name":"Mission_1_Tiles","order":24,"path":"sprites/Mission_1_Tiles/Mission_1_Tiles.yy",},
     {"name":"scribble_fallback_bulletpoint","order":23,"path":"sprites/scribble_fallback_bulletpoint/scribble_fallback_bulletpoint.yy",},
     {"name":"sHealthbar_bg","order":11,"path":"sprites/sHealthbar_bg/sHealthbar_bg.yy",},
@@ -178,5 +180,6 @@
     {"name":"sSpotted","order":12,"path":"sprites/sSpotted/sSpotted.yy",},
     {"name":"TileSet1","order":32,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"TileSet2","order":33,"path":"tilesets/TileSet2/TileSet2.yy",},
+    {"name":"TileSet4","order":14,"path":"tilesets/TileSet4/TileSet4.yy",},
   ],
 }

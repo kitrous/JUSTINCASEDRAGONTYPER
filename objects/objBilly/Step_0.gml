@@ -18,6 +18,8 @@ if (player_input == "punch" && facing == -1) {
 if (player_input == "gloves"){
 	sprite_index = Billy_Walk_Glove;
 	gloves = true;
+	global.lugarHit = true;
+	global.lugarHP -= 25
 	
 	}
 	
