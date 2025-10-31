@@ -26,12 +26,16 @@ sprite_index = Lugar_Hit;
 image_index = 0;
 global.lugarHit = false;
 
-
 }
 
 if (!global.lugarHit) {
 sprite_index = Lugar;
 image_index += 0;
 image_speed = 0.3;
+}
+
+if (global.lugarDead) {
+
+
 }
 

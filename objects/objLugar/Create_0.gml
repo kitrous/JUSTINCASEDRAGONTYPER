@@ -4,6 +4,7 @@ idle = true;
 
 global.lugarHP = 100
 global.lugarHPmax = global.lugarHP;
+global.lugarDead = false;
 
 global.lugarHit = false;
 alarm[0] = 60;

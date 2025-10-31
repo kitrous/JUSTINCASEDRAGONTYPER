@@ -1,4 +1,4 @@
-image_speed = 0;
+  image_speed = 0;
 
 spd = 6;
 
@@ -10,7 +10,6 @@ sprite_scale = image_xscale;
 
 gloves = false;
 
-billyHurt = false;
 
 healthbar_width = 360;
 healthbar_height = 25;

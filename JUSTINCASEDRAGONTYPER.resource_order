@@ -160,6 +160,8 @@
     {"name":"__shd_scribble_bake_outline_8dir_2px","order":2,"path":"shaders/__shd_scribble_bake_outline_8dir_2px/__shd_scribble_bake_outline_8dir_2px.yy",},
     {"name":"__shd_scribble_bake_outline_8dir","order":1,"path":"shaders/__shd_scribble_bake_outline_8dir/__shd_scribble_bake_outline_8dir.yy",},
     {"name":"__shd_scribble_bake_shadow","order":3,"path":"shaders/__shd_scribble_bake_shadow/__shd_scribble_bake_shadow.yy",},
+    {"name":"Hit","order":1,"path":"sounds/Hit/Hit.yy",},
+    {"name":"Powerup","order":2,"path":"sounds/Powerup/Powerup.yy",},
     {"name":"Billy_Hurt_Head","order":18,"path":"sprites/Billy_Hurt_Head/Billy_Hurt_Head.yy",},
     {"name":"Billy_Hurt","order":17,"path":"sprites/Billy_Hurt/Billy_Hurt.yy",},
     {"name":"Billy_Kick","order":8,"path":"sprites/Billy_Kick/Billy_Kick.yy",},
