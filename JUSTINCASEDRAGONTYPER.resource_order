@@ -179,6 +179,7 @@
     {"name":"sHealthbar_bg","order":11,"path":"sprites/sHealthbar_bg/sHealthbar_bg.yy",},
     {"name":"sHealthbar_Border","order":10,"path":"sprites/sHealthbar_Border/sHealthbar_Border.yy",},
     {"name":"sHealthbar","order":9,"path":"sprites/sHealthbar/sHealthbar.yy",},
+    {"name":"sLugar_Death","order":19,"path":"sprites/sLugar_Death/sLugar_Death.yy",},
     {"name":"spr_textbox","order":17,"path":"sprites/spr_textbox/spr_textbox.yy",},
     {"name":"Sprite7","order":25,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Sprite8","order":26,"path":"sprites/Sprite8/Sprite8.yy",},

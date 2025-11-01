@@ -7,8 +7,10 @@ global.lugarHPmax = global.lugarHP;
 global.lugarDead = false;
 
 global.lugarHit = false;
-alarm[0] = 60;
+
 image_speed = 0;
+
+speed = 3;
 
 healthbar_width = 360;
 healthbar_height = 25;

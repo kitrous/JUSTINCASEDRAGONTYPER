@@ -10,10 +10,12 @@ if (direction > 90 and direction < 270 ) {  image_xscale = -1; }
 //collision logic - used with gml visual, edited with gml code
 var sCollision = collision_rectangle(x + -200, y + -200, x + 200, y + 200, objBilly, true, 1);
 	if(sCollision){
+		if (global.lugarHP > 0) {
 	idle = false;
 	direction = point_direction(x, y, objBilly.x+200, objBilly.y+200);
 	speed = .5;
 	path_end();
+		}
 } else {
 	idle = true;
 }
@@ -29,13 +31,21 @@ global.lugarHit = false;
 }
 
 if (!global.lugarHit) {
+	if (global.lugarHP > 0) {
 sprite_index = Lugar;
 image_index += 0;
 image_speed = 0.3;
+	}
 }
 
-if (global.lugarDead) {
+if (global.lugarHP <= 0) {
+	if (alarm[0] == -1) {
+sprite_index = sLugar_Death;
+image_index = 0;
+image_speed = 0.3;
+idle = false;
+speed = 0;
+alarm[0] = 120;
 
-
+	}
 }
-
